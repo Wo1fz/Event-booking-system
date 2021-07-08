@@ -1,0 +1,14 @@
+6543210, Beginner to Excel, 10
+6286443, Gundam Movie Marathon, 3
+6543210, Graduation Dinner, 2
+6286443, Board Game Society, 4
+6458392, Dialogue in the Dark, 2
+6458392, Mavel Movie Marathon, 2
+6543210, Beginner to Yoga, 2
+6458392, UOW Orientation, 3
+6578658, Skin Care Workshop, 5
+6543210, Skin Care Workshop, 4
+6543210, Skin Care Workshop, 5
+6578658, X-Men Movie Marathon, 1
+6578658, Dialogue in the Dark, 1
+6578658, Mavel Movie Marathon, 1

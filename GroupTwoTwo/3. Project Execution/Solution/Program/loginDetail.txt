@@ -1,0 +1,8 @@
+1234567 123qwe pkz567@mymail.sim.edu.sg 2019/11/05--00:20:47 2019/11/05--00:21:59 ACTIVE
+1345642 zxcasd bnh642@mymail.sim.edu.sg 2019/11/04--20:33:23 2019/11/06--22:30:55 ACTIVE
+0937845 sudo056 admin@mymail.sim.edu.sg 2019/11/06--22:42:34 2019/11/06--22:43:17 ACTIVE
+9865237 passwordis123 superUser@mymail.sim.edu.sg 2019/11/07--00:44:47 2019/11/07--00:45:22 ACTIVE
+0111111 121212 admin2@mymail.sim.edu.sg 2019/11/09--02:44:36 NULL ACTIVE
+6543210 123123 xzhan@mymail.sim.edu.sg NULL NULL ACTIVE
+9111111 Super999 super2@mymail.sim.edu.sg NULL NULL ACTIVE
+6564584 f23fdsq1 ybo@mymail.sim.edu.sg NULL NULL ACTIVE

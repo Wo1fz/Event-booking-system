@@ -1,0 +1,4 @@
+To run the program, 
+(1) Double click on Program folder
+(2) Double click on itProject.exe
+(3) Program should launch

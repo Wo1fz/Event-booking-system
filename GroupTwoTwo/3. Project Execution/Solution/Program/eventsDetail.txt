@@ -1,0 +1,13 @@
+New Student Welcoming Party, 10.00, 01122019, 1, 10:00-17:00, Auditorium, 150, Private, 15
+UOW Orientation, 5.00, 07112019, 2, 09:00-18:00, Auditorium, 120, Public, 21
+Board Game Society, 15.00, 17122019, 1, 10:00-18:00, Blk B Lvl 5 Room 4, 50, Public, 16
+Dialogue in the Dark, 20.00, 13012020, 1, 12:00-15:00, Sport Hall, 40, Public, 14
+Mavel Movie Marathon, 35.00, 23022020, 3, 18:00-21:00, Auditorium, 120, Public, 49
+Skin Care Workshop, 30.00, 23042020, 1, 10:00-15:00, Blk B Lvl 4 Room 5, 30, Public, 23
+Beginner to Yoga, 25.50, 12112019, 1, 18:00-20:00, Sport Hall, 35, Private, 24
+X-Men Movie Marathon, 35.00, 14022020, 3, 18:00-21:00, Auditorium, 120, Public, 41
+Beginner to Excel, 15.00, 22052020, 1, 15:00-19:00, Blk A Lvl 5 Room 4, 40, Public, 30
+Graduation Dinner, 15.00, 24062020, 1, 18:00-22:00, Auditorium, 200, Private, 101
+Gundam Movie Marathon, 35.00, 14032020, 2, 18:00-21:00, Auditorium, 120, Public, 14
+Dancing Lesson, 5.00, 23112019, 3, 09:00-18:00, Auditorium, 120, Public, 22
+Badminton Club, 5.00, 13112019, 1, 09:00-18:00, Auditorium, 120, Private, 22
